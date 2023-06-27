@@ -1,4 +1,4 @@
-<title> Ello everyone!</title>
+ Ello everyone!
 
 <pre><div align="center">
 Your local Cisco junkie is here! :D
