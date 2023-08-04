@@ -24,7 +24,7 @@ What I am:
  
 - War Thunder enthusiast
 - Call of War casual
-- 
+- Probably listening to Carpenter Brut
 
 
 
