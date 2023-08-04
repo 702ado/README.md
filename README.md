@@ -1,34 +1,48 @@
 Ello everyone!
 
-While you're here, here's some things about me in case any of my profiles such as Discord or Signal doesn't show anything.
+While you're here, here's some things about me in case any of my profiles such as Discord or Signal doesn't show anythin' :D.
 
-
-
+<div>
+=========================
+ 
 What I do:
 
-Practice too much on packet tracer
+- Practice too much on packet tracer
+- Getting more certifications
+- University
+- Learning about Machine Learning and Data Science
 
-Getting more certifications
+=========================
 
-University
-
-Learning L2TP, PPTP, Perl, 
-
+</div>
+<div>
+=========================
 
 What I am:
+
 
 - TCP/UDP connection enthusiast
 - Comptia A+, Sec+, Net+, Linux Essentials, and AWS practitioner certified
 - Aiming for CCNA, Pentest+, Project+, and ITIL
 
- 
+=========================
 - War Thunder enthusiast
 - Call of War casual
 - Probably listening to Carpenter Brut
 
+=========================
+</div>
 
 
-<img src = "https://cdn.discordapp.com/attachments/385071464552071170/1137020066546851981/1670c76324653a185464c1fe10b33b28.png" alt="BoomerJuiceVergil">
+<body>
+
+ 
+ <img src = "https://cdn.discordapp.com/attachments/385071464552071170/1137020066546851981/1670c76324653a185464c1fe10b33b28.png" alt="BoomerJuiceVergil">
+
+
+</body>
+
+
 
 <pre><div align="center">
 
