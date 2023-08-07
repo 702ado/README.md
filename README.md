@@ -1,3 +1,5 @@
+
+
 Ello everyone!
 
 While you're here, here's some things about me in case any of my profiles such as Discord or Signal doesn't show anythin' :D.
@@ -9,8 +11,8 @@ What I do:
 
 - Practice too much on packet tracer
 - Getting more certifications
-- University
-- Learning about Machine Learning and Data Science
+- University (Networking)
+- Hobyyist of Machine Learning and Data Science
 
 =========================
 
@@ -24,6 +26,9 @@ What I am:
 - TCP/UDP connection enthusiast
 - Comptia A+, Sec+, Net+, Linux Essentials, and AWS practitioner certified
 - Aiming for CCNA, Pentest+, Project+, and ITIL
+
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,discord,python,js)](https://skillicons.dev)
+
 
 =========================
 - War Thunder enthusiast
