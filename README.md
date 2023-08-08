@@ -12,7 +12,7 @@ What I do:
 - Practice too much on packet tracer
 - Getting more certifications
 - University (Networking)
-- Hobyyist of Machine Learning and Data Science
+- Hobbyist of Machine Learning and Data Science
 
 =========================
 
