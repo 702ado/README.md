@@ -11,7 +11,7 @@ What I do:
 
 - Internships RAHHHH
 - Making like Ash and Ketchum all the certifications.
-- Hobbyist of Machine Learning and Data Science
+- Hobbyist of Machine Learning and Data Science.
 
 =========================
 
@@ -22,7 +22,7 @@ What I do:
 What I am:
 
 - Comptia A+, Sec+, Net+, Linux Essentials, AWS cloud practitioner, and ITIL certified
-- Aiming for CCNA, Pentest+, Project+, and CISSP
+- Aiming for CCNA, Pentest+, Project+, CISSP, and PMP
 
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,discord,python,js)](https://skillicons.dev)
 
@@ -42,9 +42,11 @@ What I am:
 
 
 ==========================
-- For Call of War game management, contact a Game Operator, not a Moderator
-- For War Thunder: Partnerships, my DMs are open. If it's for gaming, could request it if needed
-- For anything else; don't spam server invites in my DMs unprovoked, thank you. 
+- For Call of War game management, contact a Game Operator, not a Moderator, thank you!
+- For War Thunder: Partnerships, my DMs are open. If it's for gaming, request username for your inteded game if needed.
+- For the League of Servers, Aces, or just any server I'm in management, I do apologize for any delays in responses, as University is here.
+- For anything else; don't spam server invites in my DMs unprovoked, thank you.
+
 
 
  
