@@ -42,8 +42,8 @@ What I am:
 
 
 ==========================
-- For Call of War game management, contact a Game Operator, not a Moderator, thank you!
-- For War Thunder: Partnerships, my DMs are open. If it's for gaming, request username for your inteded game if needed.
+- For Call of War game management, describe your problem, retrieve your userID from Call of War (select via profile), copy gameID, and paste it to my DMs for reporting.
+- For War Thunder: Partnerships, my DMs are open. If it's for gaming, request username for your intended game if needed.
 - For the League of Servers, Aces, or just any server I'm in management, I do apologize for any delays in responses, as University is here.
 - For anything else; don't spam server invites in my DMs unprovoked, thank you.
 
