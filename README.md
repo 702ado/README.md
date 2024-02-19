@@ -11,7 +11,7 @@ What I do:
 
 - Internships RAHHHH
 - Making like Ash and Ketchum all the certifications.
-- Hobbyist of Machine Learning and Data Science.
+- Hobbyist of Machine Learning, Data Science, and Project Management
 
 =========================
 
@@ -31,8 +31,9 @@ What I am:
 - University Student (Undergrad for Network Engineering and Security)
 - War Thunder enthusiast
 - Call of War casual
-- Probably listening to Carpenter Brut
+- Probably listening to music from Carpenter Brut and Casey Edwards
 - Maybe even pulling out hair lol
+- Aiming for Winter Class of 2024
 
 =========================
 </div>
