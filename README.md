@@ -57,7 +57,7 @@ What I am:
 <body>
 
  
- <img src = "https://cdn.discordapp.com/attachments/385071464552071170/1137020066546851981/1670c76324653a185464c1fe10b33b28.png" alt="BoomerJuiceVergil">
+ <img src = "https://images-ext-2.discordapp.net/external/6aaSZ1oybTY5udGSNmwoX0qunWs9tFyiSpQ_eF48684/https/static.miraheze.org/thefinalrumblewiki/thumb/0/03/Vergil_27.png/224px-Vergil_27.png?format=webp&quality=lossless" alt="BoomerJuiceVergil">
 
 
 </body>
