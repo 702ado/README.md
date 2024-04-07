@@ -47,8 +47,9 @@ What I am:
 ==========================
 FAQ:
 - Call of War Game Operators deal with in-game reports, Moderators just make sure people don't choke each other out on chat.
-- War Thunder
-- Contact Trout, Azure, or 
+- War Thunder, join ReaperWing aka the Restless Spirits! 
+- Contact Trout, Azure, or other staff for Aces business
+
 
 
  
@@ -63,4 +64,4 @@ FAQ:
 
 </body>
 
-
+For Sapphire
