@@ -33,8 +33,8 @@ What I am:
 - University Student (Undergrad for Network Engineering and Security)
 - War Thunder enthusiast
 - Call of War casual
-- Probably listening to music from Carpenter Brut and Casey Edwards
-- Maybe even pulling out hair lol
+- Probably listening to music from Carpenter Brut, Casey Edwards, and Duran Duran
+- About to bald because of studying alone.
 - Winter Class of 2024 here I come
 
 =========================
@@ -47,11 +47,11 @@ What I am:
 ==========================
 FAQ:
 - Call of War Game Operators deal with in-game reports, Moderators just make sure people don't choke each other out on chat.
-- War Thunder, join ReaperWing aka the Restless Spirits! 
-- Contact Trout, Azure, or other staff for Aces business
+
+- For Great Britain: Contact Intel, Teamaster, Melody, or myself for server partnerships
 
 
-
+- For War Thunder, my IGN is Dreadnougnt_02
  
 </div>
 
@@ -64,6 +64,4 @@ FAQ:
 
 </body>
 
-Fun Fact!
-
-I hate honey mustard
+I love my fun-sized pirate
