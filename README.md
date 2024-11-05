@@ -1,20 +1,13 @@
-
-
-Ello everyone!
-
-While you're here, here's some things about me in case any of my profiles such as Discord or Signal doesn't show anythin' :D.
+You actually read my about me and clicked on this link.
 
 <div>
 =========================
  
 What I do:
 
-- Internships RAHHHH
-- Making like Ash and Ketchum all the certifications.
 - Hobbyist of Machine Learning, Data Science, and Project Management
 - Raspberry shenanigans
-
-
+  
 =========================
 
 </div>
@@ -23,19 +16,18 @@ What I do:
 
 What I am:
 
-- Comptia A+, Sec+, Net+, Linux Essentials, AWS cloud practitioner, and ITIL certified
-- Aiming for CCNA, Pentest+, Project+, CISSP, and PMP
+- Comptia A+, Sec+, Net+, Linux Essentials, AWS cloud practitioner, ITIL, and Project+ Certified
+- Aiming for CCNA, Pentest+, CISSP, and PMP
 
 [![My Skills](https://skillicons.dev/icons?i=linux,aws,discord,python,js)](https://skillicons.dev)
 
 
 =========================
-- University Student (Undergrad for Network Engineering and Security)
+- Uni Student 'bout to graduate
 - War Thunder enthusiast
 - Call of War casual
-- Probably listening to music from Carpenter Brut, Casey Edwards, and Duran Duran
-- About to bald because of studying alone.
-- Winter Class of 2024 here I come
+- Probably listening to music from Duran Duran, Kenny Loggins, and some other artists
+- About to bald because of studying alone
 
 =========================
 </div>
@@ -48,7 +40,7 @@ What I am:
 FAQ:
 - Call of War Game Operators deal with in-game reports, Moderators just make sure people don't choke each other out on chat.
 
-- For Great Britain: Contact Intel, Teamaster, Melody, or myself for server partnerships
+- For Great Britain: Contact Intel, Evelyn, Pikopan, Xafan, or myself for server partnerships
 
 
 - For War Thunder, my IGN is Dreadnougnt_02
@@ -64,4 +56,4 @@ FAQ:
 
 </body>
 
-I love my fun-sized pirate
+Reeeeeee 
