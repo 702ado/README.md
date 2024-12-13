@@ -1,4 +1,6 @@
 You actually read my about me and clicked on this link.
+You want a cookie?
+Sadly I can't personally, but hopefully you get that cookie. 
 
 <div>
 =========================
@@ -23,10 +25,9 @@ What I am:
 
 
 =========================
-- Uni Student 'bout to graduate
+- Uni Student 'bout to graduate (ONE MORE MONTH RAHHHHHH)
 - War Thunder enthusiast
-- Call of War casual
-- Probably listening to music from Duran Duran, Kenny Loggins, and some other artists
+- Listening to Duran Duran, Blue Monday, Five Finger Death Punch, or Disturbed
 - About to bald because of studying alone
 
 =========================
@@ -40,8 +41,7 @@ What I am:
 FAQ:
 - Call of War Game Operators deal with in-game reports, Moderators just make sure people don't choke each other out on chat.
 
-- For Great Britain: Contact Intel, Evelyn, Pikopan, Xafan, or myself for server partnerships
-
+- For Great Britain: Contact Intel, Squire Irish Picker, Prince James, or me.
 
 - For War Thunder, my IGN is Dreadnougnt_02
  
@@ -56,4 +56,4 @@ FAQ:
 
 </body>
 
-Reeeeeee 
+
